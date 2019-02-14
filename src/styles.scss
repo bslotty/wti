@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+
+
+
+
+/*  Default Fonts   */
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 100;
+}
+
+
+#container {
+    width: 720px;
+    margin: 0 auto;
+}
